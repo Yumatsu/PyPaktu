@@ -1,2 +1,2 @@
-stdpack|packages.num,packages.stringer,packages.mainpack
-advmath|packages.num,packages.advmath
+stdpack,mainpack.pce
+advmath,advmath.pce

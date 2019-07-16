@@ -1,5 +1,6 @@
 inpack stdpack
 inpack advmath
-inpack ham
 
-1 + 1
+instance main() {
+    
+}
